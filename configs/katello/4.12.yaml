@@ -12,6 +12,8 @@
     :redmine_version_id: 1774
 :code_name: Mile 42
 :ignores:
+  37045:
+    # marked duplicate
 :repos:
   :katello:
     :main: true
